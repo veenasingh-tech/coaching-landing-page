@@ -1,0 +1,141 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:'Poppins', sans-serif;
+}
+
+body{
+  background:#f9fafc;
+  color:#222;
+  line-height:1.6;
+}
+
+/* Header */
+
+header{
+  background:linear-gradient(135deg,#2563eb,#06b6d4);
+  color:white;
+  text-align:center;
+  padding:90px 20px;
+}
+
+header h1{
+  font-size:42px;
+  margin-bottom:15px;
+}
+
+header p{
+  font-size:18px;
+  margin-bottom:25px;
+}
+
+/* Button */
+
+.btn{
+  background:white;
+  color:#2563eb;
+  padding:12px 28px;
+  border-radius:30px;
+  text-decoration:none;
+  font-weight:600;
+  display:inline-block;
+}
+
+.btn:hover{
+  background:#e0f2fe;
+}
+
+/* Sections */
+
+section{
+  max-width:1100px;
+  margin:auto;
+  padding:70px 20px;
+}
+
+.title{
+  text-align:center;
+  margin-bottom:50px;
+}
+
+.title h2{
+  font-size:32px;
+}
+
+/* Courses */
+
+.courses{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  gap:25px;
+}
+
+.course-box{
+  background:white;
+  padding:25px;
+  border-radius:15px;
+  text-align:center;
+  box-shadow:0 5px 15px rgba(0,0,0,0.08);
+}
+
+.course-box h3{
+  color:#2563eb;
+  margin-bottom:10px;
+}
+
+/* About */
+
+.about{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+  gap:30px;
+  align-items:center;
+}
+
+.about img{
+  width:100%;
+  border-radius:20px;
+}
+
+/* Benefits */
+
+.benefits{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+  gap:25px;
+}
+
+.benefit{
+  background:white;
+  padding:20px;
+  border-radius:15px;
+  text-align:center;
+  box-shadow:0 5px 15px rgba(0,0,0,0.08);
+}
+
+/* CTA */
+
+.cta{
+  background:linear-gradient(135deg,#06b6d4,#2563eb);
+  color:white;
+  text-align:center;
+  padding:70px 20px;
+  border-radius:20px;
+  margin:40px 20px;
+}
+
+.cta h2{
+  font-size:32px;
+  margin-bottom:15px;
+}
+
+/* Footer */
+
+footer{
+  background:#020617;
+  color:#9ca3af;
+  text-align:center;
+  padding:25px;
+  font-size:14px;
+}
