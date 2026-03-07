@@ -3,7 +3,7 @@
 A professional, high-converting landing page designed for coaching institutes or online tutors. This project focuses on clean UI and clear call-to-action buttons.
 
 ## 🚀 Live Demo
-Check out the website here: [Yahan apna Live Link daalein]
+Check out the website here: 
 
 ## ✨ Key Features
 * **Hero Section:** Eye-catching headline with a clear "Enroll Now" button.
