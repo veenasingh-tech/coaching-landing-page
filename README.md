@@ -3,7 +3,7 @@
 A professional, high-converting landing page designed for coaching institutes or online tutors. This project focuses on clean UI and clear call-to-action buttons.
 
 ## 🚀 Live Demo
-Check out the website here: 
+Check out the website here: https://scintillating-buttercream-9fd5f7.netlify.app/
 
 ## ✨ Key Features
 * **Hero Section:** Eye-catching headline with a clear "Enroll Now" button.
