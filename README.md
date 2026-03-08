@@ -18,11 +18,11 @@ Check out the website here: https://scintillating-buttercream-9fd5f7.netlify.app
 * **JavaScript:** For smooth scrolling and interactive elements.
 
 ## 📈 Outreachy 2026 Preparation
-This project is part of my technical portfolio for the Outreachy March 2024 cohort. 
+This project is part of my technical portfolio for the Outreachy March 2026 cohort. 
 * **Focus:** Improving web accessibility and UI/UX design.
 * **Status:** Actively updating and refining the codebase.
 
 ## 🛠️ How to Run
 1. Clone the repo.
 2. Open `index.html` in your browser.
-3.
+  
